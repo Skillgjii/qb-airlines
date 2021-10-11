@@ -1,4 +1,4 @@
-# qb-diving
+# qb-airlines
 Airline Script For QB-Core
 
 # License
